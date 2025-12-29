@@ -1,1 +1,1 @@
-# Research-AI-Assistant
+# Generative AI using Langchain 
